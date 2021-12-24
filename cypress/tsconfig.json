@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "types": ["cypress"],
+      "target": "es2018",
+      "sourceMap": true,
+      "outDir": "built",
+      "experimentalDecorators": true,
+      "allowJs": true,
+      "lib": ["es2017", "dom"]
+    }
+  }
+  

@@ -1,0 +1,32 @@
+{
+  "name": "phptravelscypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelamr18/phpTravelsCypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelamr18/phpTravelsCypress/issues"
+  },
+  "homepage": "https://github.com/adelamr18/phpTravelsCypress#readme",
+  "dependencies": {
+    "@types/jest": "^27.0.3",
+    "cypress": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^2.0.56",
+    "@typescript-eslint/eslint-plugin": "^3.7.0",
+    "@typescript-eslint/parser": "^3.7.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-chai-expect": "^2.1.0",
+    "eslint-plugin-chai-friendly": "^0.5.0",
+    "eslint-plugin-mocha": "^7.0.1"
+  }
+}
